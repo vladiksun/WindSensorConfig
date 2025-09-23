@@ -1,0 +1,27 @@
+[
+  {
+    "location": "Спб",
+    "sensors": [
+        {
+          "label": "TakeOff",
+          "id": "neduet_0263"
+        },
+        {
+          "label": "Крон",
+          "id": "neduet_0175"
+        },
+        {
+          "label": "Лахта",
+          "id": "neduet_0352"
+        },
+        {
+          "label": "Балтиец",
+          "id": "neduet_0262"
+        },
+        {
+          "label": "Сосновый Бор",
+          "id": "neduet_0261"
+        }
+    ]
+  }
+]
