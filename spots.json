@@ -1,26 +1,35 @@
 [
   {
-    "location": "Спб",
+    "location": "Spb",
     "sensors": [
       {
         "label": "TakeOff",
-        "id": "neduet_0263"
+        "id": "1chipru_a4e57cbb42cc"
       },
       {
         "label": "Крон",
-        "id": "neduet_0175"
+        "id": "1chipru_840d8eaa9b63"
       },
       {
         "label": "Лахта",
-        "id": "neduet_0352"
+        "id": "1chipru_08f9e0610066"
       },
       {
         "label": "Балтиец",
-        "id": "neduet_0262"
+        "id": "1chipru_3c6105cff325"
       },
       {
-        "label": "Сосновый Бор",
-        "id": "neduet_0261"
+        "label": "Зенит Арена",
+        "id": "1chipru_10521ce2b0cd"
+      }
+    ]
+  },
+  {
+    "location": "Dahab",
+    "sensors": [
+      {
+        "label": "Dahab Lagoon",
+        "id": "1chipru_e868e7f2bf47"
       }
     ]
   }
