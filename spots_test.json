@@ -1,14 +1,19 @@
 [
   {
     "location": "TestLocation1",
+    "readingWindow": 3600,
+    "numberOfReadings": 5,
     "sensors": [
       {
         "label": "Test1Windy",
         "provider": "windy",
+        "readingWindow": 3600,
+        "numberOfReadings": 5,
         "id": "1chipru_a4e57cbb42cc"
       },
       {
         "label": "Test2Windy",
+        "readingWindow": 3600,
         "id": "1chipru_840d8eaa9b63"
       },
       {
