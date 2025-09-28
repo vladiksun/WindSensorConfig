@@ -1,0 +1,35 @@
+[
+  {
+    "location": "TestLocation1",
+    "sensors": [
+      {
+        "label": "Test1Windy",
+        "provider": "windy",
+        "id": "1chipru_a4e57cbb42cc"
+      },
+      {
+        "label": "Test2Windy",
+        "id": "1chipru_840d8eaa9b63"
+      },
+      {
+        "label": "Test1Neduet",
+        "provider": "neduet",
+        "id": "0263"
+      },
+      {
+        "label": "Test2Neduet",
+        "id": "0263"
+      }
+    ]
+  },
+  {
+    "location": "TestLocation2",
+    "sensors": [
+      {
+        "label": "Test1Windy",
+        "provider": "windy",
+        "id": "1chipru_e868e7f2bf47"
+      }
+    ]
+  }
+]
