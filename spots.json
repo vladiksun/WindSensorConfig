@@ -11,6 +11,8 @@
       },
       {
         "label": "Крон",
+        "readingWindow": 7200,
+        "numberOfReadings": 5,
         "provider": "windy",
         "id": "1chipru_840d8eaa9b63"
       },
