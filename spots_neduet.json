@@ -4,23 +4,28 @@
     "sensors": [
         {
           "label": "TakeOff",
-          "id": "neduet_0263"
+          "provider": "neduet",
+          "id": "0263"
         },
         {
           "label": "Крон",
-          "id": "neduet_0175"
+          "provider": "neduet",
+          "id": "0175"
         },
         {
           "label": "Лахта",
-          "id": "neduet_0352"
+          "provider": "neduet",
+          "id": "0352"
         },
         {
           "label": "Балтиец",
-          "id": "neduet_0262"
+          "provider": "neduet",
+          "id": "0262"
         },
         {
           "label": "Сосновый Бор",
-          "id": "neduet_0261"
+          "provider": "neduet",
+          "id": "0261"
         }
     ]
   }
