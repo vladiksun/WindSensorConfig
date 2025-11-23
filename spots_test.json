@@ -29,6 +29,8 @@
   },
   {
     "location": "TestLocation2",
+    "readingWindow": 28800,
+    "numberOfReadings": 8,
     "sensors": [
       {
         "label": "Test1Windy",
