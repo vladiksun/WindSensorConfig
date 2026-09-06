@@ -29,8 +29,8 @@
   },
   {
     "location": "TestLocation2",
-    "readingWindow": 28800,
-    "numberOfReadings": 8,
+    "readingWindow": 3600,
+    "numberOfReadings": 5,
     "sensors": [
       {
         "label": "Test1Windy",
@@ -40,9 +40,7 @@
       {
         "label": "Assala-Lighthouse",
         "provider": "onechip",
-        "id": "0002",
-        "readingWindow": 3600,
-        "numberOfReadings": 5
+        "id": "0002"
       }
     ]
   }
