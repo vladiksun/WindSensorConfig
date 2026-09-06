@@ -40,7 +40,9 @@
       {
         "label": "Assala-Lighthouse",
         "provider": "onechip",
-        "id": "0002"
+        "id": "0002",
+        "readingWindow": 3600,
+        "numberOfReadings": 5
       }
     ]
   }
