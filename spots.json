@@ -49,5 +49,17 @@
         "id": "1chipru_e868e7f2bf47"
       }
     ]
+  },
+  {
+    "location": "MuiNe [1]",
+    "readingWindow": 3600,
+    "numberOfReadings": 5,
+    "sensors": [
+      {
+        "label": "SurfPoint",
+        "provider": "windy",
+        "id": "custom_ecowitt_sp_muine_viet"
+      }
+    ]
   }
 ]
