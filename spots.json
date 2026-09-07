@@ -1,6 +1,6 @@
 [
   {
-    "location": "Спб",
+    "location": "Спб [4]",
     "readingWindow": 3600,
     "numberOfReadings": 5,
     "sensors": [
@@ -29,19 +29,7 @@
     ]
   },
   {
-    "location": "Dahab",
-    "readingWindow": 3600,
-    "numberOfReadings": 5,
-    "sensors": [
-      {
-        "label": "Dahab Lagoon",
-        "provider": "windy",
-        "id": "1chipru_e868e7f2bf47"
-      }
-    ]
-  },
-  {
-    "location": "Dahab Test",
+    "location": "Dahab [2]",
     "readingWindow": 3600,
     "numberOfReadings": 5,
     "sensors": [
@@ -49,6 +37,11 @@
         "label": "Lighthouse",
         "provider": "onechip",
         "id": "0002"
+      },
+      {
+        "label": "Dahab Lagoon",
+        "provider": "windy",
+        "id": "1chipru_e868e7f2bf47"
       }
     ]
   }
