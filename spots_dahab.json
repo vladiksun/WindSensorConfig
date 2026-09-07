@@ -1,9 +1,14 @@
 [
   {
-    "location": "Dahab",
+    "location": "Dahab [2]",
     "readingWindow": 3600,
     "numberOfReadings": 5,
     "sensors": [
+      {
+        "label": "Lighthouse",
+        "provider": "onechip",
+        "id": "0002"
+      },
       {
         "label": "Dahab Lagoon",
         "provider": "windy",
