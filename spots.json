@@ -17,6 +17,11 @@
         "id": "1chipru_840d8eaa9b63"
       },
       {
+        "label": "Лахта",
+        "provider": "windy",
+        "id": "1chipru_08f9e0610066"
+      },
+      {
         "label": "Балтиец",
         "provider": "windy",
         "id": "1chipru_3c6105cff325"
