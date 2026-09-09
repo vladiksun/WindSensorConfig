@@ -5,14 +5,14 @@
     "numberOfReadings": 5,
     "sensors": [
       {
-        "label": "Tile 1",
+        "label": "Test tile",
         "provider": "windy",
         "id": "1chipru_a4e57cbb42cc",
         "tiles": [
           {
-            "tileLabel": "TestTileLabel",
-            "latitude": 60.068347,
-            "longitude": 30.002349
+            "tileLabel": "Дубки",
+            "latitude": 60.093611,
+            "longitude": 29.934803
           }
         ]
       },
