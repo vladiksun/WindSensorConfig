@@ -1,47 +1,55 @@
 [
   {
-    "location": "TestLocation1",
+    "location": "Test",
     "readingWindow": 3600,
     "numberOfReadings": 5,
     "sensors": [
       {
-        "label": "Test1Windy",
+        "label": "Tile 1",
         "provider": "windy",
-        "readingWindow": 3600,
-        "numberOfReadings": 5,
+        "id": "1chipru_a4e57cbb42cc",
+        "tiles": [
+          {
+            "tileLabel": "TestTileLabel",
+            "latitude": 60.068347,
+            "longitude": 30.002349
+          }
+        ]
+      },
+      {
+        "label": "Tiles null",
+        "provider": "windy",
         "id": "1chipru_a4e57cbb42cc"
       },
       {
-        "label": "Test2Windy",
-        "readingWindow": 3600,
-        "id": "1chipru_840d8eaa9b63"
-      },
-      {
-        "label": "Test1Neduet",
-        "provider": "neduet",
-        "id": "0263"
-      },
-      {
-        "label": "Test2Neduet",
-        "id": "0263"
-      }
-    ]
-  },
-  {
-    "location": "TestLocation2",
-    "readingWindow": 3600,
-    "numberOfReadings": 5,
-    "sensors": [
-      {
-        "label": "Test1Windy",
+        "label": "Tiles empty",
         "provider": "windy",
-        "id": "1chipru_e868e7f2bf47"
+        "id": "1chipru_a4e57cbb42cc",
+        "tiles": []
       },
       {
-        "label": "Lighthouse",
-        "provider": "onechip",
-        "id": "0002"
+        "label": "latitude null",
+        "provider": "windy",
+        "id": "1chipru_a4e57cbb42cc",
+        "tiles": [
+          {
+            "tileLabel": "TestTileLabel",
+            "longitude": 30.002349
+          }
+        ]
+      },
+      {
+        "label": "longitude null",
+        "provider": "windy",
+        "id": "1chipru_a4e57cbb42cc",
+        "tiles": [
+          {
+            "tileLabel": "TestTileLabel",
+            "latitude": 60.068347
+          }
+        ]
       }
+
     ]
   }
 ]
