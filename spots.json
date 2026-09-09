@@ -7,7 +7,14 @@
       {
         "label": "TakeOff",
         "provider": "windy",
-        "id": "1chipru_a4e57cbb42cc"
+        "id": "1chipru_a4e57cbb42cc",
+        "tiles": [
+          {
+            "tileLabel": "Дубки",
+            "latitude": 60.093611,
+            "longitude": 29.934803
+          }
+        ]
       },
       {
         "label": "Крон",
