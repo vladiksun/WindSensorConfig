@@ -10,6 +10,11 @@
         "id": "1chipru_a4e57cbb42cc",
         "tiles": [
           {
+            "tileLabel": "Дюны",
+            "latitude": 60.12787,
+            "longitude": 29.93555
+          },
+          {
             "tileLabel": "Дубки",
             "latitude": 60.093611,
             "longitude": 29.934803
