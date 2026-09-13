@@ -65,12 +65,7 @@
       {
         "label": "Lighthouse",
         "provider": "onechip",
-        "id": "0002"
-      },
-      {
-        "label": "Dahab Lagoon",
-        "provider": "windy",
-        "id": "1chipru_e868e7f2bf47",
+        "id": "0002",
         "tiles": [
           {
             "tileLabel": "Lighthouse",
@@ -78,6 +73,11 @@
             "longitude": 34.51891
           }
         ]
+      },
+      {
+        "label": "Dahab Lagoon",
+        "provider": "windy",
+        "id": "1chipru_e868e7f2bf47"
       }
     ]
   },
