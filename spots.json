@@ -60,7 +60,14 @@
       {
         "label": "Baby Bay",
         "provider": "onechip",
-        "id": "0001"
+        "id": "0001",
+        "tiles": [
+          {
+            "tileLabel": "Dahab Lagoon",
+            "latitude": 28.47694,
+            "longitude": 34.49722
+          }
+        ]
       },
       {
         "label": "Lighthouse",
