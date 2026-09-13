@@ -70,7 +70,14 @@
       {
         "label": "Dahab Lagoon",
         "provider": "windy",
-        "id": "1chipru_e868e7f2bf47"
+        "id": "1chipru_e868e7f2bf47",
+        "tiles": [
+          {
+            "tileLabel": "Lighthouse",
+            "latitude": 28.49677,
+            "longitude": 34.51891
+          }
+        ]
       }
     ]
   },
