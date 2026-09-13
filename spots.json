@@ -11,13 +11,13 @@
         "tiles": [
           {
             "tileLabel": "Дюны",
-            "latitude": 60.12937,
-            "longitude": 29.93654
+            "latitude": 60.12905,
+            "longitude": 29.93555
           },
           {
-            "tileLabel": "Дюны 2",
-            "latitude": 60.12785,
-            "longitude": 29.93749
+            "tileLabel": "Дубки",
+            "latitude": 60.09316,
+            "longitude": 29.93323
           }
         ]
       },
