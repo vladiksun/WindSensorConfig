@@ -82,7 +82,14 @@
       {
         "label": "SurfPoint",
         "provider": "windy",
-        "id": "custom_ecowitt_sp_muine_viet"
+        "id": "custom_ecowitt_sp_muine_viet",
+        "tiles": [
+          {
+            "tileLabel": "Surf4You",
+            "latitude": 10.945691,
+            "longitude": 108.264147
+          }
+        ]
       }
     ]
   }
