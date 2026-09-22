@@ -18,6 +18,11 @@
             "tileLabel": "Дубки",
             "latitude": 60.09316,
             "longitude": 29.93323
+          },
+          {
+            "tileLabel": "Зеленогорск",
+            "latitude": 60.187265,
+            "longitude": 29.696334
           }
         ]
       },
