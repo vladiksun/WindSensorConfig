@@ -46,6 +46,11 @@
         "id": "1chipru_3c6105cff325"
       },
       {
+        "label": "Пулково",
+        "provider": "windy",
+        "id": "MADIS_ULLI"
+      },
+      {
         "label": "Зенит Арена",
         "provider": "windy",
         "id": "1chipru_10521ce2b0cd"
