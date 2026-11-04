@@ -1,0 +1,115 @@
+[
+  {
+    "location": "Спб [4]",
+    "readingWindow": 3600,
+    "numberOfReadings": 5,
+    "sensors": [
+      {
+        "label": "TakeOff",
+        "provider": "windy",
+        "id": "1chipru_a4e57cbb42cc",
+        "tiles": [
+          {
+            "tileLabel": "Дюны",
+            "latitude": 60.12905,
+            "longitude": 29.93555
+          },
+          {
+            "tileLabel": "Дубки",
+            "latitude": 60.09316,
+            "longitude": 29.93323
+          }
+        ]
+      },
+      {
+        "label": "Крон",
+        "readingWindow": 7200,
+        "numberOfReadings": 5,
+        "provider": "windy",
+        "id": "1chipru_840d8eaa9b63",
+        "tiles": [
+          {
+            "tileLabel": "Крон поляна",
+            "latitude": 60.00317,
+            "longitude": 29.69609
+          },
+          {
+            "tileLabel": "3-ий Северный",
+            "latitude": 60.021955,
+            "longitude": 29.818074
+          }
+        ]
+      },
+      {
+        "label": "Балтиец",
+        "provider": "windy",
+        "id": "1chipru_3c6105cff325"
+      },
+      {
+        "label": "Зенит Арена",
+        "provider": "windy",
+        "id": "1chipru_10521ce2b0cd"
+      }
+    ]
+  },
+  {
+    "location": "Dahab [3]",
+    "readingWindow": 3600,
+    "numberOfReadings": 5,
+    "sensors": [
+      {
+        "label": "Baby Bay",
+        "provider": "onechip",
+        "id": "0001",
+        "tiles": [
+          {
+            "tileLabel": "Dahab Lagoon",
+            "latitude": 28.47694,
+            "longitude": 34.49722
+          }
+        ]
+      },
+      {
+        "label": "Lighthouse",
+        "provider": "onechip",
+        "id": "0002",
+        "tiles": [
+          {
+            "tileLabel": "Lighthouse",
+            "latitude": 28.49677,
+            "longitude": 34.51891
+          },
+          {
+            "tileLabel": "Dahab Lagoon",
+            "latitude": 28.47694,
+            "longitude": 34.49722
+          }
+        ]
+      },
+      {
+        "label": "Dahab Lagoon",
+        "provider": "windy",
+        "id": "1chipru_e868e7f2bf47"
+      }
+    ]
+  },
+  {
+    "location": "MuiNe [1]",
+    "readingWindow": 3600,
+    "numberOfReadings": 5,
+    "sensors": [
+      {
+        "label": "SurfPoint",
+        "provider": "windy",
+        "id": "custom_ecowitt_sp_muine_viet",
+        "tiles": [
+          {
+            "tileLabel": "Surf4You",
+            "latitude": 10.945691,
+            "longitude": 108.264147
+          }
+        ]
+      }
+    ]
+  }
+]
