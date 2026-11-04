@@ -1,6 +1,6 @@
 [
   {
-    "location": "Спб [4]",
+    "location": "Спб [5]",
     "readingWindow": 3600,
     "numberOfReadings": 5,
     "sensors": [
@@ -18,6 +18,11 @@
             "tileLabel": "Дубки",
             "latitude": 60.09316,
             "longitude": 29.93323
+          },
+          {
+            "tileLabel": "Зеленогорск",
+            "latitude": 60.186897,
+            "longitude": 29.696122
           }
         ]
       },
@@ -44,6 +49,11 @@
         "label": "Балтиец",
         "provider": "windy",
         "id": "1chipru_3c6105cff325"
+      },
+      {
+        "label": "Пулково",
+        "provider": "windy",
+        "id": "MADIS_ULLI"
       },
       {
         "label": "Зенит Арена",
