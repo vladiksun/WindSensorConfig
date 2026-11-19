@@ -63,32 +63,20 @@
     ]
   },
   {
-    "location": "Dahab [2]",
+    "location": "Dahab [1]",
     "readingWindow": 3600,
     "numberOfReadings": 5,
     "sensors": [
       {
-        "label": "Dahab - Assala 2",
-        "provider": "onechip",
-        "id": "0264",
+        "label": "Lighthouse",
+        "provider": "windguru",
+        "id": "15693",
         "tiles": [
-          {
-            "tileLabel": "Dahab Lagoon",
-            "latitude": 28.47694,
-            "longitude": 34.49722
-          },
           {
             "tileLabel": "Lighthouse",
             "latitude": 28.49677,
             "longitude": 34.51891
-          }
-        ]
-      },
-      {
-        "label": "Baby Bay",
-        "provider": "onechip",
-        "id": "0001",
-        "tiles": [
+          },
           {
             "tileLabel": "Dahab Lagoon",
             "latitude": 28.47694,
